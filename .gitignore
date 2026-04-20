@@ -9,3 +9,10 @@ data/*.zip
 __pycache__/
 *.pyc
 gsoc_env/
+
+# --- Task 2 Specific Ignores ---
+data/nga/images/
+data/nga/*.npy
+__pycache__/
+.DS_Store
+gsoc_env/
